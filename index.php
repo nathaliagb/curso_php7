@@ -6,7 +6,7 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Curso PHP</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='./assets/css/estilo.css'>
+    <link rel='stylesheet' type='text/css' media='screen' href='./recursos/css/estilo.css'>
     <script src='main.js'></script>
 </head>
 
@@ -21,7 +21,11 @@
                 <div class="modulo verde">
                     <h3>Módulo 01</h3>
                     <ul>
-                        <li><a href="">Exercício A</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=ola">Olá PHP</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=html">Integração HTML</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=css">Integração CSS</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=comentarios">Comentários PHP</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=desafio">Desafio</a></li>
                     </ul>
                 </div>
                 <!--<div class="modulo vermelho">
