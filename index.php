@@ -40,16 +40,19 @@
                         <li><a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleano</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=conversoes">Conversões</a></li>
                     </ul>
-                </div>
-                <!--<div class="modulo azul">
-                    <h3>Módulo 03</h3>
+                </div><div class="modulo azul">
+                    <h3>Variáveis</h3>
                     <ul>
-                        <li><a href="">Exercício A</a></li>
-                        <li><a href="">Exercício B</a></li>
-                        <li><a href="">Exercício C</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=basicos">Tipo Inteiro</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis variáveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor vs Referência</li>
+                        <li><a href="exercicio.php?dir=variaveis&file=constantes">Constantes</li>
                     </ul>
                 </div>
-                <div class="modulo roxo">
+                <!--<div class="modulo roxo">
                     <h3>Módulo 04</h3>
                     <ul>
                         <li><a href="">Exercício A</a></li>
