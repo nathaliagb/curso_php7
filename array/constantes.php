@@ -14,3 +14,5 @@ echo '<br>' . CARROS["Fiat"];
 define('CIDADES', array('Belo Horizonte', 'Recife'));
 // CIDADES[0] = 'Rio de Janeiro';
 echo '<br>' . CIDADES[1];
+
+?>

@@ -36,3 +36,5 @@ unset($dados[1]);
 echo '<br>';
 print_r($dados);
 var_dump($dados[1000]);
+
+?>

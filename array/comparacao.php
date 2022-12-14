@@ -17,3 +17,5 @@ echo '<br>';
 $arr4 = ['idade' => '20', 'nome' => 'Maria'];
 var_dump($arr1 == $arr4);
 var_dump($arr1 === $arr4);
+
+?>
